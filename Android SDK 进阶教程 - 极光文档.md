@@ -1,0 +1,1 @@
+Clipped from: [https://docs.jiguang.cn/jpush/client/Android/android\_senior/](https://docs.jiguang.cn/jpush/client/Android/android_senior/)
